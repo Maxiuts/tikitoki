@@ -1,0 +1,2 @@
+# tikitokik
+script para tiktoks
