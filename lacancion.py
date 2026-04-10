@@ -22,9 +22,9 @@ letras = [
     ("y en el carro, la playa, el motel\n", 0.06),
     ("En casa de tu pai cuando yo te iba a ver\n", 0.06),
     ("Las veces que tu mai nos llegó a coger\n", 0.06),
-    ("Tú brincando mojaíta, sudando Chanel\n", 0.07),
-    ("Yo sé que lo nuestro es cosa de ayer\n", 0.06),
-    ("Y me pone contento que te vaya bien con el\n", 0.07),
+    ("Tú brincando mojaíta, sudando Chanel\n", 0.06),
+    ("Yo sé que lo nuestro es cosa de ayer\n", 0.05),
+    ("Y me pone contento que te vaya bien con el\n", 0.05),
     ("Yo ni te extrañaba ni te quería ver\n", 0.06),
 
 ]
